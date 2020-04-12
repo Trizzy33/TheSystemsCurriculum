@@ -25,3 +25,5 @@ The Application is deployed to the **Heroku** server we created - http://tsc-das
 The Heroku server is free and use git commands. The relevant information and tutorial for deploying DASH application to **Heroku** can be found **HERE - [Deploying Dash Apps](https://dash.plot.ly/deployment)**.
 
 A Heroku account is needed.
+
+![Image of TSC](https://github.com/Trizzy33/TheSystemsCurriculum/blob/master/1.png)
